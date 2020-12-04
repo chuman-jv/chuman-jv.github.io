@@ -1,0 +1,89 @@
+
+#CodWW2{
+	background-image: url(CodWW2.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+	opacity: 0.9;
+
+
+}
+h4{
+	color: white;
+	line-height: 100vh;
+	font-size: 30px;
+	font-family: Arial;
+}
+
+#CodWW2camp{
+	background-image: url(CodWW2map.png);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	background-position: center, center;
+	background-repeat: no-repeat;
+	text-align: center;
+	opacity: 0.9;
+
+}
+#CodWW2mult{
+	background-image: url(CodWW2multiplayer.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	background-position: center, center;
+	background-repeat: no-repeat;
+	text-align: center;
+	opacity: 0.9;
+
+}
+#CodWW2nz{
+	background-image: url(CodWW2nz.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	background-position: center, center;
+	background-repeat: no-repeat;
+	text-align: center;
+	opacity: 0.9;
+
+}
+footer{
+	width: 100%;
+	background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8));
+	height: 100px;
+	color: white;
+	line-height: 100px;
+	padding-left: 20px;
+}
+body{
+	background-image: url(codwwii.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	min-height: 100vh;
+	background-position: center, center;
+	background-repeat: no-repeat;
+}
+section{
+	padding: 30px;
+	color: white;
+	text-align: center;
+	border-radius: 10px 10px 10px 10px;
+	background-image: linear-gradient(to bottom right, rgba(0,0,0,0.3), rgba(0,0,0,0.3));
+	margin-top: 50px;
+	font-family: Arial;
+}
+footer img{
+	float: right;
+	margin-top: 20px;
+	margin-right: 40px;
+}
+p{
+	font-size: 18px;
+}
+h5{
+	font-size: 24px;
+}
